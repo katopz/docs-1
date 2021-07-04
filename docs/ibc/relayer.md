@@ -5,8 +5,7 @@ sidebar_position: 2
 
 # Relayer
 
-Interchain connections require external processes called [relayer](https://github.
-com/cosmos/ics/tree/master/spec/ics-018-relayer-algorithms). You can setup and run your own, or just use existing
+Interchain connections require external processes called [relayer](https://github.com/cosmos/ibc/blob/master/spec/relayer/ics-018-relayer-algorithms/README.md). You can setup and run your own, or just use existing
 connections.
 
 ## Relayer Implementations
